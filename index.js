@@ -18,3 +18,6 @@ Tock
 Tick
 Tock
 */
+
+// let t = setInterval(ticker, 1000);
+// clearInterval(t);
